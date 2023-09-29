@@ -1,0 +1,17 @@
+{
+	"name": "okenodatafactory",
+	"properties": {
+		"globalParameters": {
+			"global_parameter": {
+				"type": "int",
+				"value": 2020
+			}
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a0ed944e-b780-483f-b0f3-03faa054424f",
+		"tenantId": "cd6683a6-aa85-46cf-aeea-92d4a1477009"
+	}
+}
